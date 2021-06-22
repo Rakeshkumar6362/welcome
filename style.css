@@ -1,0 +1,15 @@
+h1, p,div{
+    text-align: center;
+}
+img
+{
+    display: block;
+    margin: auto;
+}
+hr{
+    border-top:3px dotted black;
+}
+span{
+    border-left: 2px solid black;
+    height: 1px;
+}
